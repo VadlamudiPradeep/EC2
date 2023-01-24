@@ -151,3 +151,4 @@
 ::1 - - [23/Jan/2023:06:17:07 +0000] "GET /Signup/signup.html?name=Vandlamudi+Pradeep&email=Vadlamudipradeep2000%40gmail.com&password=2000 HTTP/1.1" 404 332 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 ::1 - - [23/Jan/2023:06:19:22 +0000] "GET /Expenes/expense.html HTTP/1.1" 404 249 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 ::1 - - [23/Jan/2023:06:19:32 +0000] "GET /Expene/expense.html HTTP/1.1" 404 248 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [23/Jan/2023:15:21:40 +0000] "GET /expense/expensesData/1 HTTP/1.1" 401 17 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
